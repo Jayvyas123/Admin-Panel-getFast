@@ -1,6 +1,6 @@
 // // const http = require('http')
 // // http.createServer((req,resp)=>{
-// //     resp.write("This is An Exmple File..!")
+// //     resp.write("This is An Example File..!")
 // //     resp.end()
 
    
